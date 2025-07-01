@@ -1,25 +1,28 @@
-### Hi there, I'm Tehreem Asif! 👋  
+### Hi, I'm Tehreem Asif! 👋  
 
-💻 **Final Year Software Engineering Student | Full-Stack Developer | AI Enthusiast | Scrum Master | Medical Tech Explorer**  
+💻 **Software Engineer | Full-Stack Developer | AI- Developer | Tech for Good Advocate**  
 
-🔹 **About Me:**  
-🚀 I'm a **final year Software Engineering student** at the University of Gothenburg, graduating Spring 2025, with hands-on experience in **Agile methodologies**, **full-stack development**, and **system analysis**.  
-⚡ Passionate about exploring **innovative technologies**, including **machine learning**, **AI applications**, **embedded systems**, and recently, **medical tech** to drive impactful solutions.  
-💼 I also have experience in **team management**, acting as a **Scrum Master** and collaborating on meaningful projects with diverse teams.  
+🔹 **🔍 About Me**
 
-🔹 **What I Do:**  
-✅ I develop **web & mobile applications** using **React, Vue, Node.js, and Android Studio**.  
-✅ Build **AI-powered solutions** and dive deep into **machine learning**.  
-✅ Explore and contribute to **medical tech projects**, applying **AI** for healthcare innovations.  
-✅ I specialize in **full-stack development** and have expertise in **embedded systems** and **database management**.  
-✅ Manage **Agile teams** and foster effective collaboration as a **Scrum Master**.  
+I'm a **Software Engineering and Management** graduate passionate about using technology to build meaningful solutions. My work spans **web and mobile development, AI applications**, and **embedded systems** — and I'm especially drawn to projects that create real impact.
 
-🔹 **Looking to Collaborate On:**  
-💡 **Innovative projects** in **AI, full-stack development, embedded systems**, and **medical tech**.  
-🤝 **Open-source contributions** and collaborative **software engineering challenges**.  
+I’ve worn different hats in my journey — from developer to **Scrum Master** and **Product Owner** — and I value **collaboration**, **clear communication**, and a shared sense of purpose in everything I do.
+
+🔹 **🛠️ What I Work With**  
+- **Web & Mobile:** React, Vue, Node.js, Android Studio
+- **AI & Data:** Machine learning, LLMs, data analysis (currently doing thesis on ChatGPT & refactoring)
+- **Embedded Systems:** Arduino, sensor-based prototypes
+- **Team Roles:** Agile development, Scrum Master, Product Owner
+
+🔹 **🤝 Open to Collaborations In**  
+- AI for software engineering
+- Full-stack or mobile projects
+- Agile teams or open-source contributions
+- Projects that explore the boundaries between tech and human-centered design
+
+**🌱 A Bit More About Me**  
+I care about building reliable, well-designed systems and working in teams where communication, respect, and clarity matter. I value thoughtful engineering and enjoy contributing to projects that are both technically sound and genuinely impactful.
 
 📫 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tehreem-asif/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tehreemAsif63)  
-
-🌱 **Fun Fact:** I thrive on **continuous learning**, particularly in tech and healthcare innovations, and value **solitude** for **self-reflection** and **growth**.
